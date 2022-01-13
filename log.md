@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+[//]: # (This may be the most platform independent comment)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
